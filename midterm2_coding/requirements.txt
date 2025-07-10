@@ -1,0 +1,12 @@
+# Core packages
+numpy==1.26.3
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.1
+scikit-learn==1.4.0
+
+# TensorFlow (CPU only; safer for Gradescope)
+tensorflow==2.15.0
+
+# Otter autograding
+otter-grader==5.2.3

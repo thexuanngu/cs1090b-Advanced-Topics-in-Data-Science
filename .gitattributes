@@ -1,0 +1,1 @@
+cs1090b_hw2/data/quickdraw/*.csv filter=lfs diff=lfs merge=lfs -text
